@@ -1,0 +1,55 @@
+/* Survey Form */
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  
+  p {
+    font-size: 1em;
+    margin-bottom: 1em;
+  }
+  
+  form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  label {
+    font-size: 1em;
+    margin-bottom: 5px;
+  }
+  
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  textarea {
+    height: 150px;
+  }
+  
+  input[type="submit"] {
+    background-color: #37af65;
+    color: white;
+    font-size: 1em;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
